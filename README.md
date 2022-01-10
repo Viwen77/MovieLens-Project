@@ -4,10 +4,11 @@ The machine learning algorithm that is used in this project to predict the ratin
 
 This repository contains 3 files of MovieLens Project which are:
 
-Updated MovieLens Project.pdf
+1. Updated MovieLens Project.pdf
 
-Updated MovieLens Project.rmd
+2. Updated MovieLens Project.rmd
 
+3. MovieLens Project Rscript.R
 
 
 
