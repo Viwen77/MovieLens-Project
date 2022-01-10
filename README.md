@@ -8,7 +8,6 @@ This repository contains 3 files of MovieLens Project which are:
 
 2. Updated MovieLens Project.rmd
 
-3. MovieLens Project Rscript.R
+3. MovieLens Rscript Project.R
 
-
-
+Thus, this MovieLens Project is submitted for the Data Science: Capstone in HavardX on eDx platform for the Data Science Professional Certificate.
